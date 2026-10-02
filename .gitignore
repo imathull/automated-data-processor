@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Data files (Exclude processed output, archive, error, logs, reports from git if sensitive, but keep structure)
+logs/*.log
+reports/*.json
+reports/*.csv
+reports/*.xlsx
+data/output/*
+data/archive/*
+data/error/*
+
+!data/output/.gitkeep
+!data/archive/.gitkeep
+!data/error/.gitkeep
+!logs/.gitkeep
+!reports/.gitkeep
+
+# IDE configuration
+.vscode/
+.idea/
+.DS_Store

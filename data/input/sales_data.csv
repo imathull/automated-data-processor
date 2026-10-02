@@ -1,0 +1,11 @@
+transaction_id,customer_id,transaction_date,product,category,quantity,unit_price,total_amount,payment_method
+TXN1001,CUST01,2023-10-01,  Wireless Mouse , Electronics ,2,25.50,51.00,Credit Card
+TXN1002,CUST02,2023-10-02, mechanical Keyboard ,Electronics,1,85.00,85.00,PayPal
+TXN1003,CUST03,2023-10-02,USB-C Cable,Electronics,3,12.00,36.00,credit_card
+TXN1004,CUST04,2023-13-45,Gaming Monitor,Electronics,1,300.00,300.00,Debit Card
+TXN1005,,2023-10-04,Standing Desk,Furniture,-1,250.00,-250.00,CASH
+TXN1006,CUST06,2023-10-05,Ergonomic Chair,Furniture,2,-150.00,-300.00,Credit Card
+TXN1007,CUST07,2023-10-05,Coffee Mug,Kitchen,5,8.00,40.00,Bitcoin
+TXN1001,CUST01,2023-10-01,  Wireless Mouse , Electronics ,2,25.50,51.00,Credit Card
+TXN1008,CUST08,2023-10-06,Desk Lamp,Furniture,invalid_qty,35.00,35.00,PayPal
+TXN1009,CUST09,2023-10-07,Bluetooth Speaker,Electronics,1,45.00,45.00,
